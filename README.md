@@ -3,7 +3,7 @@
 ## About this module
 ### What is ✨ CapMonsterTool ✨ ?
 CapMonsterTool is a set of Go tools designed to simply make requests to the [CapMonster Cloud](https://capmonster.cloud/en/) API.
-You need a [CapMonster Cloud](https://capmonster.cloud/en/) account to use this module.
+You need a [CapMonster Cloud](https://capmonster.cloud/en/) account to use this module. This API allows you to resolve captcha.
 
 ### Developed with
 * [Go](https://golang.org/)
