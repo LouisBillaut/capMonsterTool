@@ -62,14 +62,6 @@ type GetTaskResultResponse struct {
 	ErrorDescription string
 }
 
-//CapMonsterError struct error
-type CapMonsterError struct {
-	//errorCode return by CapMonster API
-	Err  string
-	//errorDescription return by CapMonster API
-	Desc string
-}
-
 type GetBalancePayload struct {
 	//Unique key of your account
 	ClientKey string `json:"clientKey"`

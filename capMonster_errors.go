@@ -8,6 +8,14 @@ import "fmt"
 type CapMonsterProcessing struct {
 }
 
+//CapMonsterError struct error
+type CapMonsterError struct {
+	//errorCode return by CapMonster API
+	Err string
+	//errorDescription return by CapMonster API
+	Desc string
+}
+
 func (e CapMonsterError) Error() string {
 	return fmt.Sprintf("CapMonster, %s: %s", e.Err, e.Desc)
 }
