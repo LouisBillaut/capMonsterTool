@@ -12,6 +12,13 @@ You need a [CapMonster Cloud](https://capmonster.cloud/en/) account to use this 
 [CapMonster Cloud](https://capmonster.cloud/en/) API documentation is available at this [url](https://zennolab.atlassian.net/wiki/spaces/APIS/pages/491575/English+Documentation).   
 I strongly advise to read this documentation before using the module
 
+## Captcha Solvers
+### [CapSolver.com](https://capsolver.com)
+<img src="https://i.imgur.com/YaRmSt4.gif" alt="Capsolver's Banner">  
+
+Supporting all common and well known captcha types and a success rate of over 99%, CapSolver allows for affordable AI-based captcha solving with JS/TS clients as well as HTTP support. Their packages are extremely affordable for projects of any size, offering a free trial to test out their service.
+
+
 ## Getting started
 ### import the module
 The easiest way to use ths module is to import it:
